@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import griddata
 
-# 原始数据
+# 原始数据#test
 x = np.arange(1, 6)        # x方向: 1-5
 y = np.arange(1, 4)        # y方向: 1-3
 temps = np.array([
